@@ -63,3 +63,45 @@ recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <randores:craftinium_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <sct:stone_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:viva_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:milk_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:bow_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:gold_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:diamond_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:moon_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:spooky_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:rainbow_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:pink_mermaid_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:purple_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:white_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:cyan_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:pink_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:lime_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:magenta_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:blue_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:grey_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:red_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:orange_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:yellow_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:ender_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
