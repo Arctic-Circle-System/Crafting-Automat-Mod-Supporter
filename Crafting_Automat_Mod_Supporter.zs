@@ -59,6 +59,6 @@ recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <midnight:shadowroot_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <terraqueous:cloud_workbench>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <terraqueous:cloudworkbench>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <randores:craftinium_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
