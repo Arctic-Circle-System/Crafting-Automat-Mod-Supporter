@@ -105,3 +105,5 @@ recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:yellow_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <customcraftingtables:ender_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <frostrealm:frostroot_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
