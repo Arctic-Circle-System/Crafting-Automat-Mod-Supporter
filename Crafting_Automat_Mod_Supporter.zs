@@ -32,8 +32,6 @@ recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:2>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:2>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:1>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
