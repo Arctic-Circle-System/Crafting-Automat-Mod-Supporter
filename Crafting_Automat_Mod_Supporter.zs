@@ -28,31 +28,9 @@
 // ================================================================================
 //#MARKER ADD SHAPED
 
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:3>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:*>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:2>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches:1>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:nether_workbenches>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:8>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:7>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:6>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:5>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:4>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:3>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:2>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:1>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
-
-recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
+recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <natura:overworld_workbenches:*>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
 recipes.addShaped(<craftingautomat:autocrafter>, [[<minecraft:dye:4>, <minecraft:dye:4>, <minecraft:dye:4>],[<minecraft:end_stone>, <midnight:shadowroot_crafting_table>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:dropper>, <minecraft:end_stone>]]);
 
